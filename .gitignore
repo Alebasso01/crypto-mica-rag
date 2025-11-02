@@ -1,6 +1,11 @@
 __pycache__/
 *.pyc
 .env
+.qdrant/
+qdrant_storage/
+.data/
 data/raw/
 data/processed/
-qdrant_storage/
+.venv/
+.uv/
+.DS_Store
